@@ -98,4 +98,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:00e0ff&height=100&section=footer" />
 </p>
 
-<p align="center"><i>Rafael Mendes — Inspiração, dedicação e código limpo (e muito café).</i></p>
+<p align="center"><i>Rafael Mendes — Inspiração, dedicação,código limpo e muito café.</i></p>

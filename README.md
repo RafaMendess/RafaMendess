@@ -21,7 +21,7 @@
 ## 🧠 Stack de Conhecimentos
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,git,github,linux,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,spring,dart,nodejs,git,python,html,css,javascript,linux&theme=light" />
 </div>
 
 ---
@@ -38,14 +38,17 @@
 ## 🚀 Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/RafaMendess/automacaoTello">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RafaMendess&repo=automacaoTello&theme=radical&hide_border=true" />
+  <a href="https://github.com/RafaMendess/barber-connect">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RafaMendess&repo=barber-connect&theme=radical&hide_border=true" />
+  </a>
+    <a href="https://github.com/RafaMendess/Calculadora">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RafaMendess&repo=Calculadora&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/RafaMendess/trabalhoLp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RafaMendess&repo=trabalhoLp&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/RafaMendess/Calculadora">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RafaMendess&repo=Calculadora&theme=radical&hide_border=true" />
+  <a href="https://github.com/RafaMendess/HotelParaPets">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RafaMendess&repo=HotelParaPets&theme=radical&hide_border=true" />
   </a>
 </div>
 
